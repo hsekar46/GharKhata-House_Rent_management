@@ -1,0 +1,7 @@
+const config = {
+  appId: "com.rakeshpoudel.gharkhata",
+  appName: "Gharkhata",
+  webDir: "dist"
+};
+
+export default config;

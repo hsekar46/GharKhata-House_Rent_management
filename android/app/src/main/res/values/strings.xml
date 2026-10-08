@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Gharkhata</string>
+    <string name="title_activity_main">Gharkhata</string>
+    <string name="package_name">com.rakeshpoudel.gharkhata</string>
+    <string name="custom_url_scheme">com.rakeshpoudel.gharkhata</string>
+</resources>
